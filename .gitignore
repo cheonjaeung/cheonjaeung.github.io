@@ -4,4 +4,9 @@
 
 .hugo_build.lock
 
+public/
+resources/_gen/
+
 go.sum
+
+.DS_Store
