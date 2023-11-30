@@ -21,15 +21,20 @@
   weight = 20
 
 [[main]]
-  identifier = "search"
+  name = "Categories"
+  pageRef = "categories"
   weight = 30
+
+[[main]]
+  identifier = "search"
+  weight = 40
   [main.params]
     action = "search"
 
 [[main]]
   name = "GitHub"
   url = "https://github.com/cheonjaewoong"
-  weight = 40
+  weight = 50
   [main.params]
     icon = "github"
     showName = false
@@ -37,7 +42,7 @@
 
 [[main]]
   identifier = "locale"
-  weight = 50
+  weight = 100
   [main.params]
     action = "locale"
 
