@@ -1,8 +1,9 @@
 ---
 title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-summary:
+summary: ""
 coverAlt: ""
 coverCaption: ""
 date: {{ .Date }}
+categories: []
 draft: true
 ---
