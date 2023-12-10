@@ -113,6 +113,11 @@ fun Sample2() {
 Kotlin 내장 라이브러리에 포함된 기능은 아니지만, Kotlin 측에서 공식적으로 개발하는 오픈 소스 라이브러리다.
 기본 내장 컬렉션과 다르게 완벽하게 불변적인 컬렉션을 구현하는 라이브러리이기 때문에 안정적으로 취급하는 듯 하다.
 
+{{< alert "circle-info" >}}
+[Kotlin Collections의 불변성과 Kotlinx Collections Immutable 라이브러리](https://woong.io/posts/kotlin-immutable-collections)
+포스트에서 kotlinx.collections.immutable 라이브러리에 대해 간단히 알아볼 수 있습니다.
+{{< /alert >}}
+
 ### 클래스
 
 클래스는 3가지 안정성 조건을 충족 한다면 안정적인 객체로 취급한다.
