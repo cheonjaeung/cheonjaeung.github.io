@@ -8,9 +8,8 @@ copyright = "© 2023 Jaewoong Cheon"
 
 [params]
   dateFormat = "2006.01.02"
-
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+   description = "Jaewoong Cheon's Blog"
 
 [author]
   name = "천재웅"
