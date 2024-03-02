@@ -55,7 +55,7 @@ Each sections means that:
 - plugins: Define Gradle plugins for this project.
 - libraries: Define dependencies for this project.
 
-Following is version catalogs of my [GridLayout for Compose](https://github.com/cheonjaewoong/gridlayout-compose) project.
+Following is version catalogs of my [GridLayout for Compose](https://github.com/cheonjaeung/gridlayout-compose) project.
 
 ```toml
 [versions]

@@ -1,4 +1,4 @@
-module github.com/cheonjaewoong/cheonjaewoong.github.io
+module github.com/cheonjaeung/cheonjaeung.github.io
 
 go 1.21
 

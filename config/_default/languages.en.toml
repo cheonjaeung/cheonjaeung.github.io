@@ -4,15 +4,15 @@ languageDirection = "ltr"
 weight = 1
 
 title = "woong.io"
-copyright = "© 2023 Jaewoong Cheon"
+copyright = "© 2023 Jaeung Cheon"
 
 [params]
   dateFormat = "2006.01.02"
   # mainSections = ["section1", "section2"]
-   description = "Jaewoong Cheon's Blog"
+   description = "Jaeung Cheon's Blog"
 
 [author]
-  name = "Jaewoong Cheon"
+  name = "Jaeung Cheon"
   image = "img/author.jpg"
   headline = "Android Software Engineer"
   # bio = "A little bit about you"
@@ -29,7 +29,7 @@ copyright = "© 2023 Jaewoong Cheon"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-    { github = "https://github.com/cheonjaewoong" },
+    { github = "https://github.com/cheonjaeung" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
@@ -37,9 +37,9 @@ copyright = "© 2023 Jaewoong Cheon"
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-    { linkedin = "https://linkedin.com/in/cheonjaewoong" },
+    { linkedin = "https://linkedin.com/in/cheonjaeung" },
   #   { mastodon = "https://mastodon.instance/@username" },
-    { medium = "https://medium.com/@cheonjaewoong" },
+    { medium = "https://medium.com/@cheonjaeung" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
   #   { patreon = "https://www.patreon.com/username" },

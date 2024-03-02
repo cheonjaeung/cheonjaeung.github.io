@@ -4,7 +4,7 @@ showDate: false
 showReadingTime: false
 ---
 
-My name is Jaewoong Cheon from South Korea.
+My name is Jaeung Cheon from South Korea.
 
 I am a Software Engineer mainly on Android application and library development.
 I'm currently working at [Dealicious, Inc](https://dealicious.kr) as Android Developer.

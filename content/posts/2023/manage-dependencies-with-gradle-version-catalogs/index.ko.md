@@ -56,7 +56,7 @@ Gradle은 기본적으로 `libs.versions.toml`이라는 파일에서 의존성 �
 - plugins: 프로젝트에서 사용하는 Gradle 플러그인을 정의합니다.
 - libraries: 프로젝트에서 사용하는 라이브러리 의존성을 정의합니다.
 
-아래 샘플은 [GridLayout for Compose](https://github.com/cheonjaewoong/gridlayout-compose)에서 사용한 버전 카탈로그의 예시입니다.
+아래 샘플은 [GridLayout for Compose](https://github.com/cheonjaeung/gridlayout-compose)에서 사용한 버전 카탈로그의 예시입니다.
 
 ```toml
 [versions]
