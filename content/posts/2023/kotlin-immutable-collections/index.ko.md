@@ -151,6 +151,6 @@ kotlinx.collections.immutable 라이브러리의 컬렉션은 모두 표준 라�
 대부분의 상황에서는 읽기 전용이라는 제약만으로도 꽤 많은 사이드 이펙트를 방지 할 수 있습니다.
 다만, 동시성 문제나 완벽한 불변성을 요구하는 경우라면 Immutable의 컬렉션을 고려해볼 수 있겠습니다.
 또한 Jetpack Compose에서는 인터페이스 타입을 불안정하게 여기지만 Immutable 라이브러리 컬렉션은 안정된 타입으로 여기기 때문에 충분히 도입할 이유가 되기도 합니다.
-(Jetpack Compose의 안정성 시스템에 대해서는 [이 글](https://woong.io/posts/jetpack-compose-recomposition-and-stability-system)을 참고해 주세요.)
+(Jetpack Compose의 안정성 시스템에 대해서는 [이 글](https://cheonjaeung.com/posts/jetpack-compose-recomposition-and-stability-system)을 참고해 주세요.)
 
 Kotlin 프로젝트에서 완전 불변한 컬렉션이 필요하다면 [kotlinx.collections.immutable](https://github.com/Kotlin/kotlinx.collections.immutable) 사용을 고려해 보세요.
