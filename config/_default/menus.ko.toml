@@ -41,6 +41,15 @@
     target = "_blank"
 
 [[main]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/cheonjaeung/"
+  weight = 60
+  [main.params]
+    icon = "linkedin"
+    showName = false
+    target = "_blank"
+
+[[main]]
   identifier = "locale"
   weight = 100
   [main.params]
