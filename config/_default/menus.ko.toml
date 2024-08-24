@@ -50,6 +50,15 @@
     target = "_blank"
 
 [[main]]
+  name = "Instagram"
+  url = "https://www.instagram.com/jaeungcheon/"
+  weight = 70
+  [main.params]
+    icon = "instagram"
+    showName = false
+    target = "_blank"
+
+[[main]]
   identifier = "locale"
   weight = 100
   [main.params]
