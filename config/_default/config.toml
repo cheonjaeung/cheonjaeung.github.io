@@ -6,13 +6,15 @@ baseURL = "https://cheonjaeung.com"
 defaultContentLanguage = "ko"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
 
 googleAnalytics = "G-W3PMG77JZY"
 
 [permalinks]
   posts = "/posts/:filename/"
+
+[pagination]
+  pagerSize = 15
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

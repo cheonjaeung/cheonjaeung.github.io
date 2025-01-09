@@ -11,7 +11,7 @@ copyright = "© 2025 Jaeung Cheon"
   # mainSections = ["section1", "section2"]
    description = "Jaeung Cheon's Blog"
 
-[author]
+[params.author]
   name = "Jaeung Cheon"
   image = "img/author.jpg"
   headline = "Android Software Engineer"
