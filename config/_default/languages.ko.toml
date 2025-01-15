@@ -3,16 +3,16 @@ languageName = "한국어"
 languageDirection = "ltr"
 weight = 1
 
-title = "Jaeung Cheon"
-copyright = "© 2025 Jaeung Cheon"
+title = "Cheon Jaeung"
+copyright = "© 2025 Cheon Jaeung"
 
 [params]
   dateFormat = "2006.01.02"
   # mainSections = ["section1", "section2"]
-   description = "Jaeung Cheon's Blog"
+   description = "Cheon Jaeung's Blog"
 
 [params.author]
-  name = "천재웅"
+  name = "천재웅 (Cheon Jaeung)"
   image = "img/author.jpg"
   headline = "Android Software Engineer"
   bio = "Android Software Engineer"
