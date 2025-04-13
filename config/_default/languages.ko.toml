@@ -13,7 +13,7 @@ copyright = "© 2025 Cheon Jaeung"
 
 [params.author]
   name = "천재웅 (Cheon Jaeung)"
-  image = "img/profile.png"
+  image = "img/profile.jpeg"
   headline = "Android Software Engineer"
   bio = "Android Software Engineer"
   links = [
